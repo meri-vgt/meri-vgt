@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hello there!
 
 Learning Software Dev out of an interest. Currently working with the following programming languages: <br><br>
@@ -6,18 +8,21 @@ Learning Software Dev out of an interest. Currently working with the following p
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="64" width="64">
 
 ### i'll probably update this at some point by the way
-Discord: mer_i
-<!--
-**meri-vgt/meri-vgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+[![Discord Profile](https://lanyard.cnrad.dev/api/211096783764455426?bg=&theme=&showDisplayName=true&borderRadius=20px)](https://discord.com/users/211096783764455426)
+
+**Discord: mer_i**
+
+**I'm always active here, easiest way to contact me**
+
+![My Terrible Music Taste](https://spotify-recently-played-readme.vercel.app/api?user=79b2x420yts10xt8ygw1uw7er&unique={true|1|on|yes})
+
+
+**I also listen to music sometimes, don't mind the taste.**
+
+</div>

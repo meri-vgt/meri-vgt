@@ -9,7 +9,7 @@ Learning Software Dev out of an interest. Currently working with the following p
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" height="64" width="57">
 
 
-[![Discord Profile](https://lanyard.cnrad.dev/api/211096783764455426?bg=&theme=&showDisplayName=true&borderRadius=20px)](https://discord.com/users/211096783764455426)
+[![Discord Profile](https://lanyard.cnrad.dev/api/211096783764455426?theme=dark&showDisplayName=true&borderRadius=20px&hideTag=false)](https://discord.com/users/211096783764455426)
 
 **Discord: mer_i**
 

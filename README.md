@@ -2,11 +2,10 @@
 
 ## Hello there!
 
-Learning Software Dev out of an interest. Currently working with the following programming languages: <br><br>
-<img src="https://github.com/user-attachments/assets/8808bfd5-181c-4aa7-b435-37954656867e" alt="React" height="64" width="64">
-<img src="https://github.com/user-attachments/assets/88c58bf9-0255-482b-a0d9-56c7c7e6ef51" alt="TypeScript" height="64" width="64">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="64" width="64">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" height="64" width="57">
+Software Dev student out of an interest. Aiming to specialize in web- and potentially appdevelopment.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meri-vgt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Discord Profile](https://lanyard.cnrad.dev/api/211096783764455426?theme=dark&showDisplayName=true&borderRadius=20px&hideTag=false)](https://discord.com/users/211096783764455426)

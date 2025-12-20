@@ -2,7 +2,9 @@
 
 ## Hello there!
 
-Software Dev student out of an interest. Aiming to specialize in web- and potentially appdevelopment.
+Check out [@WavestormSoftware](https://github.com/wavestormsoftware)
+
+Student specializing in Fullstack
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meri-vgt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 

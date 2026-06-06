@@ -2,11 +2,9 @@
 
 ## Hello there!
 
-Check out [@WavestormSoftware](https://github.com/wavestormsoftware)
-
 Student specializing in Fullstack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meri-vgt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs (Broken right now lol)](https://github-readme-stats.vercel.app/api/top-langs/?username=meri-vgt&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
